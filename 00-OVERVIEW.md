@@ -17,6 +17,7 @@ Per the discussion in lab meeting on 02-Nov-2018 the following software categori
 	 * GE P-file
 	 
 2. MR Image reconstruction
+   * General reconstruction
    * UTE reconstruction
 	 * most used!
    * EPI reconstruction
@@ -25,6 +26,8 @@ Per the discussion in lab meeting on 02-Nov-2018 the following software categori
 3. Image processing and registration
 
 4. Image visualization
+   * MATLAB
+   * Python
 
 5. Mathematical optimization and parameter fitting
    * General mathematical optimization packages/toolboxes
