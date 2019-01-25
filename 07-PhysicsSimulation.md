@@ -1,6 +1,6 @@
 # Physics Simulation tools
 
-## Berkeley Model and Algorithm Prototyping Tool (MATLAB)
+## Berkeley Model and Algorithm Prototyping Platform (MATLAB)
 + Website and source: https://github.com/jaijeet/MAPP
 + Source (on network): /working/larson/apleynes/MAPP/MAPP-2017-02-15-release-936fe19c63bf22cd50399c5cba1de4f0c2a339fa
 + Spin isochromat implementations (on network): /working/larson/apleynes/MAPP/working_code
