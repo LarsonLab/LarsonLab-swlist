@@ -8,7 +8,7 @@ This repository contains a collection of lists. Each list collects names and ref
 
 Per the discussion in lab meeting on 02-Nov-2018 the following software categories are included in this list:
 
-1. Data/image file formats & I/O
+1. [Data/image file formats & I/O](https://github.com/LarsonLab-swlist/blob/master/01-FileFormats.md)
    * Image formats
 	 * [DICOM](https://www.dicomstandard.org/)
 	 * [NRRD](http://teem.sourceforge.net/nrrd/index.html)
